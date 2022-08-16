@@ -19,7 +19,7 @@ A text editor that runs in the browser as a single-page application that meets t
 <details>
 <summary>User Interface</summary>
 
-![user](...)
+![user](./jate.png)
 
 </details>
 
